@@ -11,6 +11,7 @@
 ![Docker](https://img.shields.io/badge/Docker%20%2F%20Podman-2496ED?style=flat&logo=docker&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-OCI-F80000?style=flat&logo=oracle&logoColor=white)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-lightgrey?style=flat)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 **Web · Móvil · API · Base de datos — todo en contenedores.**
 Español 🇪🇸 · Português 🇧🇷 · English 🇺🇸
@@ -81,8 +82,8 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 
 ## 🎬 Demo
 
-### 📸 Capturas (interfaz real, sin datos falsos en producción)
-
+### 📸 Capturas (Registro)
+|Registro Fase 1|
 ![Registro Fase 1](assets/resgistro-fase-1.gif)
 
 | Registro Fase 2 | Registro Fase 3| Registro Fase 4|
@@ -93,10 +94,6 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 
 ### 🎥 Videos demostrativos
 
-**Registro y Autenticación**
-![Registro y Autenticación](assets/registro-fase-1.gif)
-
----
 
 **Panel + Movimientos**
 ![Panel y Movimientos](assets/inicio-movimientos.gif)
@@ -119,7 +116,7 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 ---
 
 **Selector de idioma y modo oscuro**
-![Idioma y Dark Mode](assets/modo oscuro.gif)
+![Idioma y Dark Mode](assets/modooscuro.gif)
 
 ---
 ## ✨ Funcionalidades
