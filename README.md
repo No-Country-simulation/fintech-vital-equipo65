@@ -83,15 +83,11 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 
 ### 📸 Capturas (interfaz real, sin datos falsos en producción)
 
-![Panel web](frontend/capturas/inicio-web.PNG)
+![Registro Fase 1](assets/resgistro-fase-1.gif)
 
-| Movimientos | Presupuestos | Metas |
+| Registro Fase 2 | Registro Fase 3| Registro Fase 4|
 |---|---|---|
-| ![Movimientos](frontend/capturas/web-movimientos.png) | ![Presupuestos](frontend/capturas/web-presupuestos.png) | ![Metas](frontend/capturas/web-metas.png) |
-
-| Análisis | Perfil |
-|---|---|
-| ![Análisis](frontend/capturas/web-analisis.png) | ![Perfil](frontend/capturas/web-perfil.png) |
+| ![Registro Fase 2](assets/registro-fase-2.gif) | ![Registro Fase 3](assets/registro-fase-3.gif) | ![Registro Fase 4](assets/registro-fase-4.gif) |
 
 ---
 
@@ -123,7 +119,7 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 ---
 
 **Selector de idioma y modo oscuro**
-![Idioma y Dark Mode](assets/modo-oscuro.gif)
+![Idioma y Dark Mode](assets/modo oscuro.gif)
 
 ---
 ## ✨ Funcionalidades
@@ -535,7 +531,7 @@ python -m nbconvert --execute --inplace --to notebook modelos_fintech_vital.ipyn
           <img src="https://github.com/neri211.png" width="150px" style="border-radius:50%;" alt="Neri Rubio"/><br />
           <sub><b>Neri Rubio</b></sub>
         </a><br />
-        <sub>Frontend</sub><br /><br />
+        <sub>Full Stack</sub><br /><br />
         <a href="https://www.linkedin.com/in/neri-rubio/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
@@ -548,7 +544,7 @@ python -m nbconvert --execute --inplace --to notebook modelos_fintech_vital.ipyn
           <img src="https://github.com/MontseCoria00.png" width="150px" style="border-radius:50%;" alt="Montserrat Martinez"/><br />
           <sub><b>Montserrat Martinez</b></sub>
         </a><br />
-        <sub>Machine Learning</sub><br /><br />
+        <sub>Data Scientist</sub><br /><br />
         <a href="https://www.linkedin.com/in/montserrat-coria-mart%C3%ADnez-954749242/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
@@ -561,7 +557,7 @@ python -m nbconvert --execute --inplace --to notebook modelos_fintech_vital.ipyn
           <img src="https://github.com/Dsx-Dev.png" width="150px" style="border-radius:50%;" alt="Daniel Caro"/><br />
           <sub><b>Daniel Caro</b></sub>
         </a><br />
-        <sub>DevOps</sub><br /><br />
+        <sub>Backend / designer</sub><br /><br />
         <a href="https://www.linkedin.com/in/daniel-caro-dsx/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
