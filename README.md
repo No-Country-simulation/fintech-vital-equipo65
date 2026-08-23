@@ -83,7 +83,7 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 ## 🎬 Demo
 
 ### 📸 Capturas (Registro)
-|Registro Fase 1|
+
 ![Registro Fase 1](assets/resgistro-fase-1.gif)
 
 | Registro Fase 2 | Registro Fase 3| Registro Fase 4|
@@ -95,30 +95,30 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 ### 🎥 Videos demostrativos
 
 
-**Panel + Movimientos**
-![Panel y Movimientos](assets/inicio-movimientos.gif)
+**Panel + Movimientos**  
+<img src="assets/inicio-movimientos.gif" width="700" alt="Panel y Movimientos" />
 
----
+<br/><br/>
 
-**Tarjetas + Crédito**
-![Tarjetas y Crédito](assets/credito-tarjetas.gif)
+**Tarjetas + Crédito**  
+<img src="assets/credito-tarjetas.gif" width="700" alt="Tarjetas y Crédito" />
 
----
+<br/><br/>
 
-**Presupuestos + Metas**
-![Presupuestos y Metas](assets/presupuesto-metas.gif)
+**Presupuestos + Metas**  
+<img src="assets/presupuesto-metas.gif" width="700" alt="Presupuestos y Metas" />
 
----
+<br/><br/>
 
-**Análisis + Perfil financiero**
-![Análisis y Perfil](assets/analisis-perfil.gif)
+**Análisis + Perfil financiero**  
+<img src="assets/analisis-perfil.gif" width="700" alt="Análisis y Perfil" />
 
----
+<br/><br/>
 
-**Selector de idioma y modo oscuro**
-![Idioma y Dark Mode](assets/modooscuro.gif)
+**Selector de idioma y modo oscuro**  
+<img src="![alt text](assets/modooscuro.gif)" width="700" alt="Idioma y Dark Mode" />
 
----
+</div>
 ## ✨ Funcionalidades
 
 Lo que ya está construido y corriendo contra la API real (no datos mock — la capa mock se retiró, [ADR-0011](https://github.com/No-Country-simulation/fintech-vital-equipo65/blob/main/docs/adr)):
