@@ -77,7 +77,13 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 <img src="frontend/capturas/logotipo-circular-fintechvital.png" alt="Logotipo circular Fintech Vital" width="120"/>
 
 > Archivos fuente (`.svg`, editables) en [`frontend/docs/branding/`](https://github.com/No-Country-simulation/fintech-vital-equipo65/tree/main/frontend/docs/branding).
+### 👕 Merchandising de Marca
 
+| Identidad Manual | Diseño  | Dotacion |
+| :---: | :---: | :---: |
+| ![Identidad Manual](frontend/capturas/Manual.png) | ![Diseño](frontend/capturas/imagotipoIdentidad.png) | ![Ropa](frontend/capturas/Dotacion.png) |
+
+> Archivos fuente editable (`.svg`, marcas) en [`frontend/docs/branding/`](https://github.com/No-Country-simulation/fintech-vital-equipo65/tree/main/frontend/docs/branding).
 ---
 
 ## 🎬 Demo
@@ -106,7 +112,7 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 <br/><br/>
 
 **Presupuestos + Metas**  
-<img src="assets/prosupuesto-metas .gif" width="700" alt="Presupuestos y Metas" />
+<img src="assets/presupuesto-metas.gif" width="700" alt="Presupuestos y Metas" />
 
 <br/><br/>
 
