@@ -106,7 +106,7 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 <br/><br/>
 
 **Presupuestos + Metas**  
-<img src="assets/presupuesto-metas.gif" width="700" alt="Presupuestos y Metas" />
+<img src="assets/prosupuesto-metas .gif" width="700" alt="Presupuestos y Metas" />
 
 <br/><br/>
 
@@ -116,7 +116,7 @@ El corazón verde de Fintech Vital nace de un imagotipo vectorizado en **Adobe I
 <br/><br/>
 
 **Selector de idioma y modo oscuro**  
-<img src="![alt text](assets/modooscuro.gif)" width="700" alt="Idioma y Dark Mode" />
+<img src="assets/modooscuro.gif" width="700" alt="Idioma y Dark Mode" />
 
 </div>
 ## ✨ Funcionalidades
